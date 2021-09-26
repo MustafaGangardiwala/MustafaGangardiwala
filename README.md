@@ -4,7 +4,7 @@
 [![kaggle Badge](https://img.shields.io/badge/-mustafagangardiwala-20beff?style=for-the-badge&logo=kaggle&logoColor=white&link=https:https://www.kaggle.com/mustafagangardiwala/)](https://www.kaggle.com/mustafagangardiwala/)
 </br>
 [![Twitter Badge](https://img.shields.io/badge/-@MgGangardiwala-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://mobile.twitter.com/MgGangardiwala)](https://mobile.twitter.com/MgGangardiwala)
-[![Instagram Badge](https://img.shields.io/badge/-@mgmust21-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https:https://www.instagram.com/mgmust21/)](https://www.instagram.com/mgmust21/)
+[![Instagram Badge](https://img.shields.io/badge/-@mgmust21-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https:https://www.instagram.com/mustafa_gangardiwala/)](https://www.instagram.com/mustafa_gangardiwala/)
 [![Gmail Badge](https://img.shields.io/badge/-Mustafa_Gangardiwala-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:gangardiwalam.mg@gmail.com)](mailto:gangardiwalam.mg@gmail.com)
 
 ![Visitors](https://komarev.com/ghpvc/?username=mustafagangardiwala&style=flat-square)
